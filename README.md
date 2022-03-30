@@ -24,6 +24,7 @@ with initial state q0 and final state q2 into an equivalent dfa.
 ##### 4. Show that if L is regular, so is LR.
 
 ##### 5. Given the following dfa:
- 
+ ![image](https://user-images.githubusercontent.com/75154678/160746879-3ee921ba-b7a5-4e7d-ad44-433905dbf70d.png)
+
 Find a minimal equivalent dfa.
 
